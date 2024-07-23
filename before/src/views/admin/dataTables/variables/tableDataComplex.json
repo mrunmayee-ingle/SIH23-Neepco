@@ -1,0 +1,26 @@
+[
+  {
+    "name":"Maharashtra State Electricity Board",
+    "status": "Approved",
+    "date": "24.Jan.2021",
+    "progress": 100
+  },
+  {
+    "name":"MP Power Management Company",
+    "status": "Debarred",
+    "date": "30.Dec.2021",
+    "progress": 20
+  },
+  {
+    "name":"KRC Infrastructure and Project",
+    "status": "Archived",
+    "date": "20.May.2021",
+    "progress": 40  
+  },
+  {
+    "name":"Noida Power Company ltd",
+    "status": "Approved",
+    "date": "12.Jul.2021",
+    "progress": 100  
+  }
+]
